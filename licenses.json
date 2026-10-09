@@ -1,4 +1,6 @@
 {
-  "_note": "Flyshit licenses. Add one line per buyer: HWID from their license window as the key, plan = 7d, 30d, 1m, 3m, 12m or lifetime, since = start date YYYY-MM-DD. Reset = delete the line or swap in their new HWID. Ban = delete the line.",
-  "PASTE-BUYER-HWID-HERE-0000000000": { "plan": "30d", "since": "2026-10-09" }
+  "_note": "Flyshit licenses. Add one line per buyer: HWID from their license window as the key, plan = 7d, 30d, 1m, 3m, 12m or lifetime, since = start date YYYY-MM-DD. Reset = delete the line or swap in their new HWID. Ban = delete the line. copy this",
+  "15774B71518E45418FC7DF9DC5D9FB20": { "plan": "lifetime", "since": "2026-10-09" }
+
+
 }
